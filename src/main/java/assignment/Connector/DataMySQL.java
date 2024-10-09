@@ -14,7 +14,7 @@ public class DataMySQL {
     public static String SQL_Port = "3306";
     public static String SQL_Database = "DB_JAVA2";
     public static String SQL_User = "root";
-    public static String SQL_Password = "chezisJDBC";
+    public static String SQL_Password = "";
     static final String ConnectURL = ( "jdbc:mysql://" + SQL_Url + ":" + SQL_Port + "/" + SQL_Database );
     
 }
