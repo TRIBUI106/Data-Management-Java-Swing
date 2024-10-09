@@ -1,6 +1,6 @@
 # **Project chỉ mang tính chất tham khảo, vui lòng không copy toàn phần dưới mọi hình thức 💖**
 <br><br>
-## Default MariaDB Database : MOB1023-Assignment/Database
+## Default MariaDB Database : Data-Management-Java-Swing/Database
 ![image](https://github.com/user-attachments/assets/cea85e70-97e2-46d5-a452-deace4288db1)
 
 ## Login Page
