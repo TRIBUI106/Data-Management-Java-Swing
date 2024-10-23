@@ -1,5 +1,14 @@
-# **Project chỉ mang tính chất tham khảo, vui lòng không copy toàn phần dưới mọi hình thức 💖**
-<br><br>
+## **Project này là 1 dự án cá nhân mình làm sau khi học được Java Swing và dùng JDBC để kết nối tới CSDL, mong các bạn tham khảo 💖**
+
+## Các lỗi / Đọc kĩ trước khi clone repo này về
+- Mặc dù là 1 ứng dụng gần như hoàn chỉnh nhưng hiện tại đang lạm dụng các biến quá nhiều
+- Dùng Database Access Object quá nhiều
+- Khai báo lại JTable để lấy thông tin quá nhiều
+
+## Các Hệ Quản Trị CSDL Có Thể Dùng
+- MariaDB
+- SQLServer ( MSSQL )
+
 ## Default MariaDB Database : Data-Management-Java-Swing/Database
 ![image](https://github.com/user-attachments/assets/cea85e70-97e2-46d5-a452-deace4288db1)
 
