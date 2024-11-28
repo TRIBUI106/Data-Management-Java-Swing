@@ -7,7 +7,7 @@
 
 ## Các Hệ Quản Trị CSDL Có Thể Dùng
 - MariaDB
-- SQLServer ( MSSQL )
+- MySQL
 
 ## Default MariaDB Database : Data-Management-Java-Swing/Database
 ![image](https://github.com/user-attachments/assets/cea85e70-97e2-46d5-a452-deace4288db1)
