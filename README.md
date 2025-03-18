@@ -1,4 +1,4 @@
-## **Project này là 1 dự án cá nhân mình làm sau khi học được Java Swing và dùng JDBC để kết nối tới CSDL, mong các bạn tham khảo 💖**
+## **Project này là 1 dự án cá nhân mình làm sau khi học được Java Swing và dùng JDBC để kết nối tới CSDL, mong các bạn tham khảo 💖 | MOB1023 / MOB1024**
 
 ## Các lỗi / Đọc kĩ trước khi clone repo này về
 - Mặc dù là 1 ứng dụng gần như hoàn chỉnh nhưng hiện tại đang lạm dụng các biến quá nhiều
